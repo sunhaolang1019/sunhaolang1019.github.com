@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
 			})(i)
 		}
 	})(function(){
-		console.log('我是韦宏宇，欢迎来到我的个人站！');
+		console.log('我是孙旭，欢迎来到我的个人站！');
 	}());
 	(function() {
 		var aEle = document.getElementsByClassName("objs");
@@ -35,6 +35,6 @@ document.addEventListener("DOMContentLoaded", function() {
 			}
 		}
 	})(function(){
-		console.log('我是韦宏宇，欢迎来到我的个人站！');
+		console.log('我是孙旭，欢迎来到我的个人站！');
 	}())
 }, false);
